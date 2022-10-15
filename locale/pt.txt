@@ -3,24 +3,24 @@
 ## Action
 
 ### URL
-LinkBehaviour_E228606F_CA5F_C614_41E9_26D0D4DA1066.source = https://api.whatsapp.com/send?phone=5585996369525&text=Ol%C3%A1%20
 LinkBehaviour_7AC1F5FC_5CF9_2BF3_41CD_3799FADAB0B1.source = https://api.whatsapp.com/send?phone=5585996369525&text=Ol%C3%A1%20
-LinkBehaviour_45E57371_583A_2E4C_41D2_23EC45D9B9E2.source = https://api.whatsapp.com/send?phone=5585996369525&text=Ol%C3%A1%20
-LinkBehaviour_7AC365FC_5CF9_2BF3_41CD_7A7E5BF7E780.source = https://api.whatsapp.com/send?phone=5585996369525&text=Ol%C3%A1%20
 LinkBehaviour_DB2FFFAA_D529_D347_41D8_EC1CBE67833A.source = https://api.whatsapp.com/send?phone=5585996369525&text=Ol%C3%A1%20
-LinkBehaviour_FB3932D1_CA4F_4A0F_41E6_E1A8BA5E2AFB.source = https://hbook.hsystem.com.br/booking?companyId=62fa7051db715345543f0bc6&checkin=06/10/2022&checkout=07/10/2022&adults=2&utm_source=website&utm_medium=search-box&utm_campaign=website
-LinkBehaviour_7AC235FC_5CF9_2BF3_41B2_67B1D55857A3.source = https://www.batista.g12.br/
-LinkBehaviour_7AC355FC_5CF9_2BF3_4192_B2E06E47B667.source = https://www.batista.g12.br/
-LinkBehaviour_4BB6570D_5CE7_282D_41C6_A22886E40FEE.source = https://www.batista.g12.br/
+LinkBehaviour_7AC365FC_5CF9_2BF3_41CD_7A7E5BF7E780.source = https://api.whatsapp.com/send?phone=5585996369525&text=Ol%C3%A1%20
+LinkBehaviour_45E57371_583A_2E4C_41D2_23EC45D9B9E2.source = https://api.whatsapp.com/send?phone=5585996369525&text=Ol%C3%A1%20
+LinkBehaviour_E228606F_CA5F_C614_41E9_26D0D4DA1066.source = https://cbtour360.github.io/Colegio-Batista-Ensino-Medio/
+LinkBehaviour_FB3932D1_CA4F_4A0F_41E6_E1A8BA5E2AFB.source = https://cbtour360.github.io/Colegio-Batista-Ensino-Medio/
 LinkBehaviour_45DA2827_583A_19D5_41D3_4CA5B2876722.source = https://www.batista.g12.br/
+LinkBehaviour_7AC355FC_5CF9_2BF3_4192_B2E06E47B667.source = https://www.batista.g12.br/
+LinkBehaviour_7AC235FC_5CF9_2BF3_41B2_67B1D55857A3.source = https://www.batista.g12.br/
+LinkBehaviour_4BB6570D_5CE7_282D_41C6_A22886E40FEE.source = https://www.batista.g12.br/
 LinkBehaviour_7AC2C5FC_5CF9_2BF3_41AC_C4978A0661F3.source = https://www.facebook.com/batistacbsd/
 LinkBehaviour_455F9E4C_583A_1654_41D5_4E8476A781BD.source = https://www.facebook.com/batistacbsd/
-LinkBehaviour_7AC205FC_5CF9_2BF3_41CA_DC1D9A7C2C27.source = https://www.google.com.br/maps/place/Col%C3%A9gio+Batista+Santos+Dumont/@-3.738779,-38.4977621,17z/data=!3m1!4b1!4m5!3m4!1s0x7c7488630067779:0x7383f2c1c1b9d10e!8m2!3d-3.7387844!4d-38.4955734
 LinkBehaviour_442429F3_583A_3A4D_41A8_7BEA9AFFB99C.source = https://www.google.com.br/maps/place/Col%C3%A9gio+Batista+Santos+Dumont/@-3.738779,-38.4977621,17z/data=!3m1!4b1!4m5!3m4!1s0x7c7488630067779:0x7383f2c1c1b9d10e!8m2!3d-3.7387844!4d-38.4955734
-LinkBehaviour_7AC3A5FC_5CF9_2BF3_41D0_8551656CB7D0.source = https://www.instagram.com/batistacbsd/
+LinkBehaviour_7AC205FC_5CF9_2BF3_41CA_DC1D9A7C2C27.source = https://www.google.com.br/maps/place/Col%C3%A9gio+Batista+Santos+Dumont/@-3.738779,-38.4977621,17z/data=!3m1!4b1!4m5!3m4!1s0x7c7488630067779:0x7383f2c1c1b9d10e!8m2!3d-3.7387844!4d-38.4955734
 LinkBehaviour_442567B0_583A_16CC_41C0_C4A528EFAB6A.source = https://www.instagram.com/batistacbsd/
-LinkBehaviour_C5CC7CD4_DD9B_D044_41E1_840DC4C1DCD8.source = https://www.instagram.com/cbtour360graus/
+LinkBehaviour_7AC3A5FC_5CF9_2BF3_41D0_8551656CB7D0.source = https://www.instagram.com/batistacbsd/
 LinkBehaviour_D7E1D42C_CE92_C9E4_41E0_4EFEABDF6353.source = https://www.instagram.com/cbtour360graus/
+LinkBehaviour_C5CC7CD4_DD9B_D044_41E1_840DC4C1DCD8.source = https://www.instagram.com/cbtour360graus/
 LinkBehaviour_4AA47642_5CE7_2817_4187_4788292E00DB.source = https://www.instagram.com/sight360graus/
 
 ## Media
